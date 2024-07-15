@@ -1,0 +1,290 @@
+Description,IsIntervened
+Legal documents,false
+Machine components,true
+Gold jewelry,false
+Explosives and munitions,true
+Computer parts,true
+Firearms and ammunition,true
+Textile materials,true
+Electronic devices,false
+Fine art pieces,false
+Pharmaceutical supplies,true
+Food products,true
+Chemical substances,true
+Luxury watches,false
+Medical equipment,false
+Industrial tools,true
+Perfumes and cosmetics,false
+Artwork and paintings,false
+Electronic gadgets,false
+Musical instruments,false
+Legal contracts,false
+Gold coins,false
+Mechanical parts,true
+Firearms accessories,true
+Clothing and apparel,false
+Automotive parts,false
+Luxury jewelry,false
+Healthcare supplies,false
+Building materials,true
+Perfumes and fragrances,false
+Art and collectibles,false
+Document storage,true
+Gold bars,false
+Machinery equipment,true
+Firearms parts,true
+Textile products,false
+Home electronics,false
+Fine art sculptures,false
+Medical supplies,false
+Industrial machinery,true
+Cosmetic products,false
+Legal forms,false
+Gold earrings,false
+Mechanical tools,true
+Electronic appliances,false
+Jewelry collections,false
+Pharmaceutical drugs,true
+Food packaging,true
+Chemical products,true
+Luxury timepieces,false
+Medical devices,false
+Industrial supplies,true
+Perfume bottles,false
+Art pieces,false
+Electronic accessories,false
+Musical equipment,false
+Legal paperwork,false
+Gold artifacts,false
+Mechanical instruments,true
+Firearms collection,true
+Textile products,false
+Electronics repair,false
+Jewelry design,false
+Pharmaceutical equipment,true
+Food processing,true
+Chemical engineering,true
+Luxury fashion,false
+Medical research,false
+Industrial automation,true
+Perfume manufacturing,false
+Art restoration,false
+Electronic repair,false
+Musical performances,false
+Legal advice,false
+Investment gold,false
+Machine learning,false
+Firearms training,true
+Textile industry,false
+Electronic commerce,false
+Jewelry making,false
+Pharmaceutical testing,true
+Food distribution,true
+Chemical analysis,true
+Luxury travel,false
+Medical education,false
+Industrial design,true
+Perfume production,false
+Art exhibitions,false
+Electronics production,false
+Musical composition,false
+Legal services,false
+Gold trading,false
+Machine operations,true
+Firearms sales,true
+Textile manufacturing,false
+Electronic design,false
+Jewelry retail,false
+Pharmaceutical research,true
+Food safety,true
+Chemical synthesis,true
+Luxury properties,false
+Medical facilities,false
+Industrial hygiene,true
+Perfume ingredients,false
+Art auctions,false
+Compressed gases ,true
+deeply refrigerated,true
+flammable,true
+non-flammable,true
+Description,IsIntervened
+butane,true
+oxygen,true
+liquid nitrogen,true
+aqualung cylinders,true
+compressed gas cylinders,true
+Corrosives,true
+acids,true
+alkalis,true
+mercury,true
+wet cell batteries,true
+apparatus containing mercury,true
+Flammable liquids,true
+solids,true
+lighter refills,true
+lighter fuel,true
+matches,true
+paints,true
+thinners,true
+fire-lighters,true
+lighters that need inverting before ignition,true
+matches (these may be carried on the person),true
+radioactive material,true
+briefcases,true
+attache case with installed alarm devices,true
+Weapons,true
+antique firearms,true
+sporting firearms,true
+hunting firearms,true
+collectible firearms,true
+toy firearms,true
+ammunition,true
+firearm parts,true
+magazines,true
+clips,true
+bolts,true
+firing pins,true
+Tobacco,false
+cigars,false
+cigarettes,false
+loose tobacco,false
+smokeless tobacco,false
+Alcoholic beverages,false
+wine,false
+beer,false
+spirits,false
+liquors,false
+Drugs,false
+prescription medications,false
+over-the-counter medications,false
+vitamins,false
+supplements,false
+veterinary drugs,false
+homeopathic remedies,false
+Money,false
+cash,false
+coins,false
+paper money,false
+negotiable instruments such as endorsed stocks and bonds,false
+Animal products,false
+animal by-products,false
+ivory products,false
+reptile skin products,false
+bones,false
+organs,false
+blood products,false
+Counterfeit goods,false
+fake designer clothing,false
+shoes,false
+handbags,false
+accessories,false
+Endangered species,false
+ivory,false
+tortoise shell,false
+coral,false
+Hazardous materials,true
+explosives,true
+gases,true
+flammable liquids,true
+flammable solids,true
+oxidizers,true
+poisons,true
+infectious substances,true
+radioactive materials,true
+corrosive materials,true
+Description,IsIntervened
+butane,true
+oxygen,true
+liquid nitrogen,true
+aqualung cylinders,true
+compressed gas cylinders,true
+Corrosives,true
+acids,true
+alkalis,true
+mercury,true
+wet cell batteries,true
+apparatus containing mercury,true
+Flammable liquids,true
+solids,true
+lighter refills,true
+lighter fuel,true
+matches,true
+paints,true
+thinners,true
+fire-lighters,true
+lighters that need inverting before ignition,true
+matches (these may be carried on the person),true
+radioactive material,true
+briefcases,true
+attache case with installed alarm devices,true
+Weapons,true
+antique firearms,true
+sporting firearms,true
+hunting firearms,true
+collectible firearms,true
+toy firearms,true
+ammunition,true
+firearm parts,true
+magazines,true
+clips,true
+bolts,true
+firing pins,true
+revolvers,true
+pistols,true
+handguns,true
+shotguns,true
+rifles,true
+assault rifles,true
+submachine guns,true
+machine guns,true
+grenades,true
+rocket launchers,true
+explosive devices,true
+Tobacco,false
+cigars,false
+cigarettes,false
+loose tobacco,false
+smokeless tobacco,false
+Alcoholic beverages,false
+wine,false
+beer,false
+spirits,false
+liquors,false
+Drugs,false
+prescription medications,false
+over-the-counter medications,false
+vitamins,false
+supplements,false
+veterinary drugs,false
+homeopathic remedies,false
+Money,false
+cash,false
+coins,false
+paper money,false
+negotiable instruments such as endorsed stocks and bonds,false
+Animal products,false
+animal by-products,false
+ivory products,false
+reptile skin products,false
+bones,false
+organs,false
+blood products,false
+Counterfeit goods,false
+fake designer clothing,false
+shoes,false
+handbags,false
+accessories,false
+Endangered species,false
+ivory,false
+tortoise shell,false
+coral,false
+Hazardous materials,true
+explosives,true
+gases,true
+flammable liquids,true
+flammable solids,true
+oxidizers,true
+poisons,true
+infectious substances,true
+radioactive materials,true
+corrosive materials,true
